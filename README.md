@@ -12,11 +12,18 @@ This repo include several commonly used polar-orbit and geostationary Rayleigh c
 
 Additionally, since the floating algae index is one of the most impotant application of Rayleigh corrected reflectance, I added some additional script to produce floating algae index in the inland lake Taihu, China.
 
-Current Status: Himawari-8
+Current Status: Himawari-8, GK2A
 
-In Progress: GK2A, MODIS-aqua, HY1/COCTS, Sentinel 3/OLCI, GCOM-C/SGLI,GOCI/COMS
+In Progress: MODIS-aqua, HY1/COCTS, Sentinel 3/OLCI, GCOM-C/SGLI,GOCI/COMS
 
 Final: Validation with SeaDAS result.
 
 Looking forward to your email and looking for partners.
 
+Current problem to do
+
+1. start from H8 and gk2a raw data
+
+2. the coordination of h8 and gk2a
+
+3. Standardization the code
